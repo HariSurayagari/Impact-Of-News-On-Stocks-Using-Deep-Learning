@@ -1,4 +1,4 @@
-# Stock-Predictions-Using-Machine-Learning
+# Stock Predictions Using Machine Learning
 
 The repository is split into 3 parts: News Collection, Correlated Stocks, Stock Predictions. 
 
