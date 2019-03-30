@@ -1,4 +1,4 @@
-# Stock Predictions Using Deep Learning
+# Impact Of News On Stocks Using Deep Learning
 
 The repository is split into 3 parts: News Collection, Correlated Stocks, Stock Predictions. 
 
